@@ -16,7 +16,7 @@ This project aims to build a **predictive model** that estimates a car’s resal
 
 ---
 
-## 🧠 Machine Learning Workflow
+##  Machine Learning Workflow
 
 ### **1. Data Preprocessing**
 - Combined brand and model into a single feature: `brand_model`
@@ -45,7 +45,7 @@ Main predictive features:
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 - Distribution of car prices  
 - Actual vs Predicted price comparison  
 - Feature importance from Random Forest model  
