@@ -36,7 +36,7 @@ Main predictive features:
 ### **3. Models Used**
 - Linear Regression  
 - Decision Tree Regressor  
-- Random Forest Regressor ✅ *(best performing)*
+- Random Forest Regressor  *(best performing)*
 
 ### **4. Evaluation Metrics**
 - **R² Score**
