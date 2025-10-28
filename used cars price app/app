@@ -1,7 +1,4 @@
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/Domz13/used-car-price-app.git
-git push -u origin main
-
+streamlit_app.py
+.streamlit/config.toml
+rf_pipeline.pkl
+requirements.txt
