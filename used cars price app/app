@@ -1,4 +1,6 @@
-streamlit_app.py
-.streamlit/config.toml
-rf_pipeline.pkl
-requirements.txt
+streamlit
+scikit-learn
+pandas
+numpy
+category_encoders
+joblib
